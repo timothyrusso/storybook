@@ -1,0 +1,32 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "App to create stories",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyrusso/storybook.git"
+  },
+  "author": "Timothy Russo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timothyrusso/storybook/issues"
+  },
+  "homepage": "https://github.com/timothyrusso/storybook#readme",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-session": "^1.17.2",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "passport": "^0.5.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
