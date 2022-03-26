@@ -27,3 +27,8 @@ p {
     font-family: 'Hurricane', Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
+
+.main-subtitle {
+    font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
