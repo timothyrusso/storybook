@@ -5,7 +5,9 @@ p {
 .login-container {
     width: 400px;
     margin-top: 50px;
-    text-align: center; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .fa-small {
@@ -19,4 +21,9 @@ p {
 
 .img-small {
     width: 180px;
+}
+
+.main-title {
+    font-family: 'Hurricane', Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
